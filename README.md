@@ -1,2 +1,2 @@
-# leetcode
-This contains the solutions of my leetcode practive questions
+# Leetcode
+This contains the solutions of my Leetcode practice questions
